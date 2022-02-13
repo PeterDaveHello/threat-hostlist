@@ -2,6 +2,8 @@
 
 Aggregated thread host lists focus on threats like malware, ransomware, phishing, spyware, and botnets.
 
+Pull requests or issues are both welcome. Unmaintained blocklists should be excluded.
+
 ## Blocklists
 
 | Blocklist                 | Source                 | Description                                 | Homepage                          | License                        | Raw                                    |
