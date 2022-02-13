@@ -35,6 +35,8 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | Threat Crowd Domain Feed  | Threat Crowd           | Crowdsourced feeds from ThreatCrowd         | [Link][Threat Crowd]              | Apache 2.0                     | [Raw][Threat Crowd.raw]                |
 | Threat-Intel              | DigitalSide            | Open Source Cyber Threat Intellegence       | [Link][Threat-Intel]              | MIT                            | [Raw][Threat-Intel.raw]                |
 | URLhaus                   | abuse.ch               | A project to share malicious URLs           | [Link][URLhaus]                   | CC0                            | [Raw][URLhaus.raw]                     |
+| UT1 malware Category      | Blacklists UT1         | Any website which deliver malware           | [Link][Blacklists UT1]            | CC BY-SA 4.0                   | [Raw][UT1.malware.raw]                 |
+| UT1 phishing Category     | Blacklists UT1         | Phishing sites                              | [Link][Blacklists UT1]            | CC BY-SA 4.0                   | [Raw][UT1.phishing.raw]                |
 
 [Anti Malware List]: https://github.com/DandelionSprout/adfilt
 [Anti Malware List.raw]: https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -47,6 +49,10 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 
 [Badd-Boyz-Hosts]: https://github.com/mitchellkrogza/Badd-Boyz-Hosts/
 [Badd-Boyz-Hosts.raw]: https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+
+[Blacklists UT1]: https://dsi.ut-capitole.fr/blacklists/index_en.php
+[UT1.malware.raw]: https://dsi.ut-capitole.fr/blacklists/download/malware.tar.gz
+[UT1.phishing.raw]: https://dsi.ut-capitole.fr/blacklists/download/phishing.tar.gz
 
 [CoinBlockerLists]: https://gitlab.com/ZeroDot1/CoinBlockerLists/
 [CoinBlockerLists.raw]: https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
