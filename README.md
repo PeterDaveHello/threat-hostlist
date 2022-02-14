@@ -38,6 +38,7 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | URLhaus                   | abuse.ch               | A project to share malicious URLs           | [Link][URLhaus]                   | CC0                            | [Raw][URLhaus.raw]                     |
 | UT1 malware Category      | Blacklists UT1         | Any website which deliver malware           | [Link][Blacklists UT1]            | CC BY-SA 4.0                   | [Raw][UT1.malware.raw]                 |
 | UT1 phishing Category     | Blacklists UT1         | Phishing sites                              | [Link][Blacklists UT1]            | CC BY-SA 4.0                   | [Raw][UT1.phishing.raw]                |
+| ThreatFox IOCs host file  | ThreatFox              | A free & community driven IOCs platform     | [Link][ThreatFox]                 | CC0                            | [Raw][ThreatFox.raw]                   |
 
 [Anti Malware List]: https://github.com/DandelionSprout/adfilt
 [Anti Malware List.raw]: https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -96,6 +97,9 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 
 [Threat Crowd]: https://threatcrowd.org/
 [Threat Crowd.raw]: https://threatcrowd.org/feeds/domains.txt
+
+[ThreatFox]: https://threatfox.abuse.ch/
+[ThreatFox.raw]: https://threatfox.abuse.ch/downloads/hostfile
 
 [Threat-Intel]: https://github.com/davidonzo/Threat-Intel/
 [Threat-Intel.raw]: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
