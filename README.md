@@ -8,7 +8,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 
 | Blocklist                 | Source                 | Description                                 | Homepage                          | License                        | Raw                                    |
 | ------------------------- | ---------------------- | ------------------------------------------- | --------------------------------- | ------------------------------ | -------------------------------------- |
-| Abuse block list          | The Block List Project | Lists of sites created to deceive           | [Link][The Block List Project]    | The Unlicense license          | [Raw][blocklistproject.abuse.raw]      |
 | add.Dead                  | FadeMind               | Dead websites. Against typos in URLs        | [Link][hosts.extras]              | GPLv3+                         | [Raw][hosts.extras.add.Dead.raw]       |
 | add.Risk                  | FadeMind               | Websites with risk content, malwares etc    | [Link][hosts.extras]              | GPLv3+                         | [Raw][hosts.extras.add.Risk.raw]       |
 | Anti Malware List         | DandelionSprout        | DandelionSprout's Anti Malware Filter       | [Link][Anti Malware List]         | Dandelicence v1.4              | [Raw][Anti Malware List.raw]           |
@@ -23,7 +22,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | Malicious Domain list     | Krisk Intel            | List of malicious domains from Krisk Intel  | [Link][Krisk Intel]               | CC BY 4.0                      | [Raw][MaliciousDomain.Krisk.raw]       |
 | Malicious Domain Blocking | Hexxium Creations      | Community driven malicious domains list     | [Link][Malicious Domain Blocking] |                                | [Raw][Malicious Domain Blocking.raw]   |
 | Maltrail                  | Miroslav Stampar       | A malicious traffic detection system        | [Link][Maltrail]                  | MIT                            | [Raw][Maltrail.raw]                    |
-| Malware block list        | The Block List Project | Known sites that host malware               | [Link][The Block List Project]    | The Unlicense license          | [Raw][blocklistproject.malware.raw]    |
 | NoCoin adblock list       | hoshsadiq              | Block lists to prevent JavaScript miners    | [Link][NoCoin adblock list]       | MIT                            | [Raw][NoCoin adblock list.raw]         |
 | OpenPhish                 | OpenPhish              | Phishing Intelligence                       | [Link][OpenPhish]                 | All rights reserved            | [Raw][OpenPhish.raw]                   |
 | Phishing Army Extended    | Phishing Army          | The Extended Blocklist to filter Phishing   | [Link][Phishing Army Extended]    | CC BY-NC 4.0                   | [Raw][Phishing Army Extended.raw]      |
@@ -108,9 +106,7 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 [URLhaus.raw]: https://urlhaus.abuse.ch/downloads/hostfile/
 
 [The Block List Project]: https://github.com/blocklistproject/Lists/
-[blocklistproject.abuse.raw]: https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
 [blocklistproject.fraud.raw]: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
-[blocklistproject.malware.raw]: https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 [blocklistproject.phishing.raw]: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 [blocklistproject.ransomware.raw]: https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 [blocklistproject.scam.raw]: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
