@@ -19,6 +19,7 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | COVID-19 phishing sites   | Krisk Intel            | List of COVID-19 related phishing sites     | [Link][Krisk Intel]               | CC BY 4.0                      | [Raw][Covid-19 phishing sites.raw]     |
 | eth-phishing-detect       | MetaMask               | Phishing domains targeting Ethereum users   | [Link][eth-phishing-detect]       | DON'T BE A DICK PUBLIC LICENSE | [Raw][eth-phishing-detect.raw]         |
 | Fraud block list          | The Block List Project | Lists of sites created to fraud             | [Link][The Block List Project]    | The Unlicense license          | [Raw][blocklistproject.fraud.raw]      |
+| Malicious Domain list     | CERT Polska            | List of malicious domains from CERT Polska  | [Link][CERT Polska]               |                                | [Raw][MaliciousDomain.Polska.raw]      |
 | Malicious Domain list     | Krisk Intel            | List of malicious domains from Krisk Intel  | [Link][Krisk Intel]               | CC BY 4.0                      | [Raw][MaliciousDomain.Krisk.raw]       |
 | Malicious Domain Blocking | Hexxium Creations      | Community driven malicious domains list     | [Link][Malicious Domain Blocking] |                                | [Raw][Malicious Domain Blocking.raw]   |
 | Maltrail                  | Miroslav Stampar       | A malicious traffic detection system        | [Link][Maltrail]                  | MIT                            | [Raw][Maltrail.raw]                    |
@@ -68,6 +69,9 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 [Covid-19 phishing sites.raw]: https://kriskintel.com/feeds/ktip_covid_domains.txt
 [MaliciousDomain.Krisk.raw]: https://kriskintel.com/feeds/ktip_malicious_domains.txt
 [Ransomware Feeds.Krisk.raw]: https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
+
+[CERT Polska]: https://cert.pl/en/posts/2020/03/malicious_domains/
+[MaliciousDomain.Polska.raw]: https://hole.cert.pl/domains/domains.txt
 
 [Malicious Domain Blocking]: https://github.com/HexxiumCreations/threat-list
 [Malicious Domain Blocking.raw]: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
