@@ -113,8 +113,8 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 [SecureReload Phishing List]: https://securereload.tech/
 [SecureReload Phishing List.raw]: https://securereload.tech/Phishing/Lists/Latest/
 
-[Phishing URL Blocklist]: https://gitlab.com/curben/phishing-filter
-[Phishing URL Blocklist.raw]: https://curben.gitlab.io/malware-filter/phishing-filter-hosts.txt
+[Phishing URL Blocklist]: https://gitlab.com/malware-filter/phishing-filter
+[Phishing URL Blocklist.raw]: https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 
 [RPiList]: https://github.com/RPiList/specials/
 [RPiList.malware.raw]: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
