@@ -38,7 +38,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | Ransomware block list      | The Block List Project | Known sites that host or contain ransomware | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.ransomware.raw] |
 | Ransomware Feeds           | Krisk Intel            | Ransomware Feeds from Krisk Intel           | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][Ransomware Feeds.Krisk.raw]      |
 | Scam block list            | The Block List Project | Sites that intend to scam                   | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.scam.raw]       |
-| Threat Crowd Domain Feed   | Threat Crowd           | Crowdsourced feeds from ThreatCrowd         | [Link][Threat Crowd]                | Apache 2.0                      | [Raw][Threat Crowd.raw]                |
 | ThreatFox IOCs host file   | ThreatFox              | A free & community driven IOCs platform     | [Link][ThreatFox]                   | CC0                             | [Raw][ThreatFox.raw]                   |
 | Threat-Intel               | DigitalSide            | Open Source Cyber Threat Intellegence       | [Link][Threat-Intel]                | MIT                             | [Raw][Threat-Intel.raw]                |
 | Toxic Domains              | Stop Forum Spam        | Toxic Domains from StopForumSpam            | [Link][StopForumSpam]               | [Custom][StopForumSpam.license] | [Raw][Toxic Domains.raw]               |
@@ -119,9 +118,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 [RPiList]: https://github.com/RPiList/specials/
 [RPiList.malware.raw]: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 [RPiList.Phishing Attack.raw]: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
-
-[Threat Crowd]: https://threatcrowd.org/
-[Threat Crowd.raw]: https://threatcrowd.org/feeds/domains.txt
 
 [ThreatFox]: https://threatfox.abuse.ch/
 [ThreatFox.raw]: https://threatfox.abuse.ch/downloads/hostfile
