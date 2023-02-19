@@ -19,6 +19,7 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | COVID-19 phishing sites     | Krisk Intel            | List of COVID-19 related phishing sites                   | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][Covid-19 phishing sites.raw]     |
 | eth-phishing-detect         | MetaMask               | Phishing domains targeting Ethereum users                 | [Link][eth-phishing-detect]         | DON'T BE A DICK PUBLIC LICENSE  | [Raw][eth-phishing-detect.raw]         |
 | Fraud block list            | The Block List Project | Lists of sites created to fraud                           | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.fraud.raw]      |
+| GlobalAntiScamOrg-blocklist | Wu Tingfeng            | Global Anti Scam Organization blocklist                   | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause                    | [Raw][GlobalAntiScamOrg-blocklist.raw] |
 | KADhosts(KAD host version)  | Filters Heroes         | List of various threats in the network                    | [Link][KADhosts]                    | CC BY-SA 4.0                    | [Raw][KADhosts.raw]                    |
 | Malware                     | RPiList                | Malware host list from RPiList                            | [Link][RPiList]                     | CC BY-NC 4.0                    | [Raw][RPiList.malware.raw]             |
 | Malicious Domain list       | CERT Polska            | List of malicious domains from CERT Polska                | [Link][CERT Polska]                 |                                 | [Raw][MaliciousDomain.Polska.raw]      |
@@ -38,6 +39,7 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | Ransomware block list       | The Block List Project | Known sites that host or contain ransomware               | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.ransomware.raw] |
 | Ransomware Feeds            | Krisk Intel            | Ransomware Feeds from Krisk Intel                         | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][Ransomware Feeds.Krisk.raw]      |
 | Scam block list             | The Block List Project | Sites that intend to scam                                 | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.scam.raw]       |
+| Scam Blocklist              | DurableNapkin          | A blocklist to protect users against untrustworthy sites  | [Link][Scam Blocklist]              | MIT                             | [Raw][Scam Blocklist.raw]              |
 | ThreatFox IOCs host file    | ThreatFox              | A free & community driven IOCs platform                   | [Link][ThreatFox]                   | CC0                             | [Raw][ThreatFox.raw]                   |
 | Threat-Intel                | DigitalSide            | Open Source Cyber Threat Intellegence                     | [Link][Threat-Intel]                | MIT                             | [Raw][Threat-Intel.raw]                |
 | Toxic Domains               | Stop Forum Spam        | Toxic Domains from StopForumSpam                          | [Link][StopForumSpam]               | [Custom][StopForumSpam.license] | [Raw][Toxic Domains.raw]               |
@@ -69,6 +71,9 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 
 [eth-phishing-detect]: https://github.com/MetaMask/eth-phishing-detect/
 [eth-phishing-detect.raw]: https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+
+[GlobalAntiScamOrg-blocklist]: https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist
+[GlobalAntiScamOrg-blocklist.raw]: https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
 
 [hosts.extras]: https://github.com/FadeMind/hosts.extras/
 [hosts.extras.add.Dead.raw]: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
@@ -124,6 +129,9 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 
 [Threat-Intel]: https://github.com/davidonzo/Threat-Intel/
 [Threat-Intel.raw]: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+
+[Scam Blocklist]: https://github.com/durablenapkin/scamblocklist
+[Scam Blocklist.raw]: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 
 [StopForumSpam]: https://www.stopforumspam.com/
 [StopForumSpam.license]: https://www.stopforumspam.com/license
