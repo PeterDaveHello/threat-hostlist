@@ -21,7 +21,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | Fraud block list            | The Block List Project | Lists of sites created to fraud                           | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.fraud.raw]      |
 | GlobalAntiScamOrg-blocklist | Wu Tingfeng            | Global Anti Scam Organization blocklist                   | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause                    | [Raw][GlobalAntiScamOrg-blocklist.raw] |
 | KADhosts(KAD host version)  | Filters Heroes         | List of various threats in the network                    | [Link][KADhosts]                    | CC BY-SA 4.0                    | [Raw][KADhosts.raw]                    |
-| Malware                     | RPiList                | Malware host list from RPiList                            | [Link][RPiList]                     | CC BY-NC 4.0                    | [Raw][RPiList.malware.raw]             |
 | Malicious Domain list       | CERT Polska            | List of malicious domains from CERT Polska                | [Link][CERT Polska]                 |                                 | [Raw][MaliciousDomain.Polska.raw]      |
 | Malicious Domain list       | Krisk Intel            | List of malicious domains from Krisk Intel                | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][MaliciousDomain.Krisk.raw]       |
 | Malicious Domain Blacklist  | FruxLabs Crack Team    | Rescure Cyber Threat Intelligence Feeds                   | [Link][Malicious Domain Blacklist]  | Public Domain                   | [Raw][Malicious Domain Blacklist.raw]  |
@@ -35,7 +34,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 | Phishing Domain Database    | Mitchell Krog          | Phishing Domains database                                 | [Link][Phishing Domain Database]    | MIT                             | [Raw][Phishing Domain Database.raw]    |
 | Phishing List               | SecureReload           | SecureReload Phishing List                                | [Link][SecureReload Phishing List]  |                                 | [Raw][SecureReload Phishing List.raw]  |
 | Phishing URL Blocklist      | Ming Di Leom           | PhishTank and OpenPhish based blocklist                   | [Link][Phishing URL Blocklist]      | CC BY-SA 4.0                    | [Raw][Phishing URL Blocklist.raw]      |
-| Phishing Attack             | RPiList                | Phishing Attack list from RPiList                         | [Link][RPiList]                     | CC BY-NC 4.0                    | [Raw][RPiList.Phishing Attack.raw]     |
 | Ransomware block list       | The Block List Project | Known sites that host or contain ransomware               | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.ransomware.raw] |
 | Ransomware Feeds            | Krisk Intel            | Ransomware Feeds from Krisk Intel                         | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][Ransomware Feeds.Krisk.raw]      |
 | Scam block list             | The Block List Project | Sites that intend to scam                                 | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.scam.raw]       |
@@ -119,10 +117,6 @@ Pull requests or issues are both welcome. Unmaintained blocklists should be excl
 
 [Phishing URL Blocklist]: https://gitlab.com/malware-filter/phishing-filter
 [Phishing URL Blocklist.raw]: https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
-
-[RPiList]: https://github.com/RPiList/specials/
-[RPiList.malware.raw]: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
-[RPiList.Phishing Attack.raw]: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 
 [ThreatFox]: https://threatfox.abuse.ch/
 [ThreatFox.raw]: https://threatfox.abuse.ch/downloads/hostfile
