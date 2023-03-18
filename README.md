@@ -1,8 +1,10 @@
 # Threat host list
 
-Aggregated thread host lists focus on threats like malware, ransomware, phishing, spyware, and botnets.
+This project aims to provide a resource for malicious domain intelligence gathered from various sources, focusing on threats like malware, ransomware, phishing, spyware, and botnets. The goal is to simplify the process of accessing and utilizing this information for users, without the need to manually search for and maintain these lists themselves. By incorporating these blocklists into your DNS-level protections, you can efficiently safeguard your network environment against a wide range of cyber threats.
 
-Pull requests or issues are both welcome. Unmaintained blocklists should be excluded.
+We appreciate any contributions to improve and expand this project. If you have suggestions for new blocklists, updates to existing ones, or have identified unmaintained blocklists that should be excluded, feel free to open a pull request or raise an issue. Your input is invaluable in making this project a valuable resource for everyone!
+
+Please note that blocklists lacking active maintenance or those containing relatively significant false positives will not be included in this collection.
 
 ## Blocklists
 
