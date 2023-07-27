@@ -18,13 +18,11 @@ Please note that blocklists lacking active maintenance or those containing relat
 | Badd-Boyz-Hosts             | Mitchell Krog          | A hosts file to block bad domains                         | [Link][Badd-Boyz-Hosts]             | MIT                             | [Raw][Badd-Boyz-Hosts.raw]             |
 | blackbook                   | Miroslav Stampar       | Blackbook of malware domains                              | [Link][blackbook]                   | Public Domain                   | [Raw][blackbook.raw]                   |
 | CoinBlockerLists            | ZeroDot1               | Simple list that help prevent cryptomining                | [Link][CoinBlockerLists]            | AGPLv3                          | [Raw][CoinBlockerLists.raw]            |
-| COVID-19 phishing sites     | Krisk Intel            | List of COVID-19 related phishing sites                   | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][Covid-19 phishing sites.raw]     |
 | eth-phishing-detect         | MetaMask               | Phishing domains targeting Ethereum users                 | [Link][eth-phishing-detect]         | DON'T BE A DICK PUBLIC LICENSE  | [Raw][eth-phishing-detect.raw]         |
 | Fraud block list            | The Block List Project | Lists of sites created to fraud                           | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.fraud.raw]      |
 | GlobalAntiScamOrg-blocklist | Wu Tingfeng            | Global Anti Scam Organization blocklist                   | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause                    | [Raw][GlobalAntiScamOrg-blocklist.raw] |
 | KADhosts(KAD host version)  | Filters Heroes         | List of various threats in the network                    | [Link][KADhosts]                    | CC BY-SA 4.0                    | [Raw][KADhosts.raw]                    |
 | Malicious Domain list       | CERT Polska            | List of malicious domains from CERT Polska                | [Link][CERT Polska]                 |                                 | [Raw][MaliciousDomain.Polska.raw]      |
-| Malicious Domain list       | Krisk Intel            | List of malicious domains from Krisk Intel                | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][MaliciousDomain.Krisk.raw]       |
 | Malicious Domain Blacklist  | FruxLabs Crack Team    | Rescure Cyber Threat Intelligence Feeds                   | [Link][Malicious Domain Blacklist]  | Public Domain                   | [Raw][Malicious Domain Blacklist.raw]  |
 | Malicious Domain Blocking   | Hexxium Creations      | Community driven malicious domains list                   | [Link][Malicious Domain Blocking]   |                                 | [Raw][Malicious Domain Blocking.raw]   |
 | Malicious Links List        | USOM (trCERT)          | Malicious Links List from TR-CERT                         | [Link][Malicious Links List-trCERT] |                                 | [Raw][Malicious Links List-trCERT.raw] |
@@ -37,7 +35,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 | Phishing List               | SecureReload           | SecureReload Phishing List                                | [Link][SecureReload Phishing List]  |                                 | [Raw][SecureReload Phishing List.raw]  |
 | Phishing URL Blocklist      | Ming Di Leom           | PhishTank and OpenPhish based blocklist                   | [Link][Phishing URL Blocklist]      | CC BY-SA 4.0                    | [Raw][Phishing URL Blocklist.raw]      |
 | Ransomware block list       | The Block List Project | Known sites that host or contain ransomware               | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.ransomware.raw] |
-| Ransomware Feeds            | Krisk Intel            | Ransomware Feeds from Krisk Intel                         | [Link][Krisk Intel]                 | CC BY 4.0                       | [Raw][Ransomware Feeds.Krisk.raw]      |
 | Scam block list             | The Block List Project | Sites that intend to scam                                 | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.scam.raw]       |
 | Scam Blocklist              | DurableNapkin          | A blocklist to protect users against untrustworthy sites  | [Link][Scam Blocklist]              | MIT                             | [Raw][Scam Blocklist.raw]              |
 | ThreatFox IOCs host file    | ThreatFox              | A free & community driven IOCs platform                   | [Link][ThreatFox]                   | CC0                             | [Raw][ThreatFox.raw]                   |
@@ -81,11 +78,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 
 [KADhosts]: https://github.com/FiltersHeroes/KADhosts
 [KADhosts.raw]: https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt
-
-[Krisk Intel]: https://kriskintel.com/
-[Covid-19 phishing sites.raw]: https://kriskintel.com/feeds/ktip_covid_domains.txt
-[MaliciousDomain.Krisk.raw]: https://kriskintel.com/feeds/ktip_malicious_domains.txt
-[Ransomware Feeds.Krisk.raw]: https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
 
 [CERT Polska]: https://cert.pl/en/posts/2020/03/malicious_domains/
 [MaliciousDomain.Polska.raw]: https://hole.cert.pl/domains/domains.txt
