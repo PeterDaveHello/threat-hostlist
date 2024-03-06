@@ -136,4 +136,4 @@ Please note that blocklists lacking active maintenance or those containing relat
 [blocklistproject.scam.raw]: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
 
 [CyberHost]: https://cyberhost.uk/malware-blocklist
-[URLhaus.raw]: https://lists.cyberhost.uk/malware.txt
+[CyberHost.raw]: https://lists.cyberhost.uk/malware.txt
