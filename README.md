@@ -17,6 +17,7 @@ Please note that blocklists lacking active maintenance or those containing relat
 | AZORult Tracker             | AZORult Tracker        | AZORult C&C Tracker                                       | [Link][AZORult Tracker]             | CC0                             | [Raw][AZORult Tracker.raw]             |
 | Badd-Boyz-Hosts             | Mitchell Krog          | A hosts file to block bad domains                         | [Link][Badd-Boyz-Hosts]             | MIT                             | [Raw][Badd-Boyz-Hosts.raw]             |
 | blackbook                   | Miroslav Stampar       | Blackbook of malware domains                              | [Link][blackbook]                   | Public Domain                   | [Raw][blackbook.raw]                   |
+| CyberHost Malware Domains   | CyberHost              | List of malware and phishing domains                      | [Link][CyberHost]                   | CC BY-SA 4.0                    | [Raw][CyberHost.raw]                   |
 | eth-phishing-detect         | MetaMask               | Phishing domains targeting Ethereum users                 | [Link][eth-phishing-detect]         | DON'T BE A DICK PUBLIC LICENSE  | [Raw][eth-phishing-detect.raw]         |
 | Fraud block list            | The Block List Project | Lists of sites created to fraud                           | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.fraud.raw]      |
 | GlobalAntiScamOrg-blocklist | Wu Tingfeng            | Global Anti Scam Organization blocklist                   | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause                    | [Raw][GlobalAntiScamOrg-blocklist.raw] |
@@ -125,3 +126,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 [blocklistproject.phishing.raw]: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
 [blocklistproject.ransomware.raw]: https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 [blocklistproject.scam.raw]: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+
+[CyberHost]: https://cyberhost.uk/malware-blocklist
+[CyberHost.raw]: https://lists.cyberhost.uk/malware.txt
