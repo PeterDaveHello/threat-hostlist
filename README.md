@@ -17,8 +17,7 @@ Please note that blocklists lacking active maintenance or those containing relat
 | AZORult Tracker             | AZORult Tracker        | AZORult C&C Tracker                                       | [Link][AZORult Tracker]             | CC0                             | [Raw][AZORult Tracker.raw]             |
 | Badd-Boyz-Hosts             | Mitchell Krog          | A hosts file to block bad domains                         | [Link][Badd-Boyz-Hosts]             | MIT                             | [Raw][Badd-Boyz-Hosts.raw]             |
 | blackbook                   | Miroslav Stampar       | Blackbook of malware domains                              | [Link][blackbook]                   | Public Domain                   | [Raw][blackbook.raw]                   |
-| CoinBlockerLists            | ZeroDot1               | Simple list that help prevent cryptomining                | [Link][CoinBlockerLists]            | AGPLv3                          | [Raw][CoinBlockerLists.raw]            |
-| Malware and Phishing        | CyberHost              | List of malware and phishing domains                      | [Link][CyberHost]                   | CC BY-SA 4.0                    | [Raw][CyberHost.raw]                   |
+| CyberHost Malware Domains   | CyberHost              | List of malware and phishing domains                      | [Link][CyberHost]                   | CC BY-SA 4.0                    | [Raw][CyberHost.raw]                   |
 | eth-phishing-detect         | MetaMask               | Phishing domains targeting Ethereum users                 | [Link][eth-phishing-detect]         | DON'T BE A DICK PUBLIC LICENSE  | [Raw][eth-phishing-detect.raw]         |
 | Fraud block list            | The Block List Project | Lists of sites created to fraud                           | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.fraud.raw]      |
 | GlobalAntiScamOrg-blocklist | Wu Tingfeng            | Global Anti Scam Organization blocklist                   | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause                    | [Raw][GlobalAntiScamOrg-blocklist.raw] |
@@ -33,7 +32,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 | Phishing Army Extended      | Phishing Army          | The Extended Blocklist to filter Phishing                 | [Link][Phishing Army Extended]      | CC BY-NC 4.0                    | [Raw][Phishing Army Extended.raw]      |
 | Phishing block list         | The Block List Project | Lists of sites created to phish info                      | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.phishing.raw]   |
 | Phishing Domain Database    | Mitchell Krog          | Phishing Domains database                                 | [Link][Phishing Domain Database]    | MIT                             | [Raw][Phishing Domain Database.raw]    |
-| Phishing List               | SecureReload           | SecureReload Phishing List                                | [Link][SecureReload Phishing List]  |                                 | [Raw][SecureReload Phishing List.raw]  |
 | Phishing URL Blocklist      | Ming Di Leom           | PhishTank and OpenPhish based blocklist                   | [Link][Phishing URL Blocklist]      | CC BY-SA 4.0                    | [Raw][Phishing URL Blocklist.raw]      |
 | Ransomware block list       | The Block List Project | Known sites that host or contain ransomware               | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.ransomware.raw] |
 | Scam block list             | The Block List Project | Sites that intend to scam                                 | [Link][The Block List Project]      | The Unlicense license           | [Raw][blocklistproject.scam.raw]       |
@@ -63,9 +61,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 [Blacklists UT1]: https://dsi.ut-capitole.fr/blacklists/index_en.php
 [UT1.malware.raw]: https://dsi.ut-capitole.fr/blacklists/download/malware.tar.gz
 [UT1.phishing.raw]: https://dsi.ut-capitole.fr/blacklists/download/phishing.tar.gz
-
-[CoinBlockerLists]: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-[CoinBlockerLists.raw]: https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
 
 [eth-phishing-detect]: https://github.com/MetaMask/eth-phishing-detect/
 [eth-phishing-detect.raw]: https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
@@ -106,9 +101,6 @@ Please note that blocklists lacking active maintenance or those containing relat
 
 [Phishing Domain Database]: https://github.com/mitchellkrogza/Phishing.Database
 [Phishing Domain Database.raw]: https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-
-[SecureReload Phishing List]: https://securereload.tech/
-[SecureReload Phishing List.raw]: https://securereload.tech/Phishing/Lists/Latest/
 
 [Phishing URL Blocklist]: https://gitlab.com/malware-filter/phishing-filter
 [Phishing URL Blocklist.raw]: https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
