@@ -26,6 +26,7 @@ Please note that blocklists lacking active maintenance or those containing relat
 | Malicious Domain Blacklist  | FruxLabs Crack Team    | Rescure Cyber Threat Intelligence Feeds                   | [Link][Malicious Domain Blacklist]  | Public Domain                   | [Raw][Malicious Domain Blacklist.raw]  |
 | Malicious Domain Blocking   | Hexxium Creations      | Community driven malicious domains list                   | [Link][Malicious Domain Blocking]   |                                 | [Raw][Malicious Domain Blocking.raw]   |
 | Malicious Links List        | USOM (trCERT)          | Malicious Links List from TR-CERT                         | [Link][Malicious Links List-trCERT] |                                 | [Raw][Malicious Links List-trCERT.raw] |
+| Malicious Links List        | TTC-CERT               | Malicious domains from Thailand Telecommunications CERT   | [Link][Malicious Links TTC-CERT]    |                                 | [Raw][Malicious Links TTC-CERT.raw]    |
 | Maltrail                    | Miroslav Stampar       | A malicious traffic detection system                      | [Link][Maltrail]                    | MIT                             | [Raw][Maltrail.raw]                    |
 | NoCoin adblock list         | hoshsadiq              | Block lists to prevent JavaScript miners                  | [Link][NoCoin adblock list]         | MIT                             | [Raw][NoCoin adblock list.raw]         |
 | OpenPhish                   | OpenPhish              | Phishing Intelligence                                     | [Link][OpenPhish]                   | All rights reserved             | [Raw][OpenPhish.raw]                   |
@@ -86,6 +87,9 @@ Please note that blocklists lacking active maintenance or those containing relat
 
 [Malicious Links List-trCERT]: https://www.usom.gov.tr/adres
 [Malicious Links List-trCERT.raw]: https://www.usom.gov.tr/url-list.txt
+
+[Malicious Links TTC-CERT]: https://github.com/ttc-cert
+[Malicious Links TTC-CERT.raw]: https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
 
 [Maltrail]: https://github.com/stamparm/maltrail/
 [Maltrail.raw]: https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
